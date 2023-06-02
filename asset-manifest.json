@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://spiritstone.world/static/css/main.f143d34d.css",
-    "main.js": "https://spiritstone.world/static/js/main.66d83c30.js",
+    "main.css": "https://spiritstone.world/static/css/main.e4985ef2.css",
+    "main.js": "https://spiritstone.world/static/js/main.cb3a15bc.js",
     "static/js/787.9a6a1170.chunk.js": "https://spiritstone.world/static/js/787.9a6a1170.chunk.js",
     "index.html": "https://spiritstone.world/index.html",
-    "main.f143d34d.css.map": "https://spiritstone.world/static/css/main.f143d34d.css.map",
-    "main.66d83c30.js.map": "https://spiritstone.world/static/js/main.66d83c30.js.map",
+    "main.e4985ef2.css.map": "https://spiritstone.world/static/css/main.e4985ef2.css.map",
+    "main.cb3a15bc.js.map": "https://spiritstone.world/static/js/main.cb3a15bc.js.map",
     "787.9a6a1170.chunk.js.map": "https://spiritstone.world/static/js/787.9a6a1170.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f143d34d.css",
-    "static/js/main.66d83c30.js"
+    "static/css/main.e4985ef2.css",
+    "static/js/main.cb3a15bc.js"
   ]
 }
